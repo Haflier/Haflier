@@ -30,14 +30,8 @@
 
 ## `01` — About
 
-I am a computer science graduate interested in the ideas beneath the implementation: abstraction, mathematical structure, algorithms, and the design of software that can be reasoned about.
+I am a computer science graduate interested in the ideas beneath the implementation: abstraction, mathematical structure, algorithms, and the design of software that can be reasoned about. My current work is centered on **C# / .NET**, backend engineering, and optimization algorithms. I am especially interested in the point where mathematical models become executable systems: representing a problem precisely, selecting an appropriate algorithm, and validating the outcome with evidence rather than intuition.
 
-My current work is centered on **C# / .NET**, backend engineering, and optimization algorithms.
-
-- **Engineering:** backend systems, APIs, architecture, testing, and containers.
-- **Algorithms:** local search, metaheuristics, scheduling, and optimization.
-- **Mathematics:** linear algebra, analysis, logic, and theoretical foundations of computation.
-- **Environment:** Linux, Neovim, Git, and a terminal-first workflow.
 
 <p align="center">
   <img width="84%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0747AF,33:C0C08A,66:E70F0F,100:1D5419&height=4&section=header&animation=twinkling" alt="Animated Pathos color divider" />
@@ -45,103 +39,22 @@ My current work is centered on **C# / .NET**, backend engineering, and optimizat
 
 ## `02` — Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Optinull](https://github.com/Haflier/Optinull)
-
-**Optimization as a service, delivered through Telegram.**
-
-A .NET solution designed to accept optimization problems and return visual reports. The work includes optimization abstractions, testable solver implementations, and job-shop scheduling experiments.
-
-**Focus**
-- Greedy search, hill climbing, simulated annealing, and genetic algorithms
-- Job-shop scheduling and makespan evaluation
-- Reproducible experiments and evaluation-count comparisons
-- Layered architecture and automated tests
-
-`C#` ` .NET` `Optimization` `algorithms`
-
-</td>
-<td width="50%" valign="top">
-
-### [Cryptock](https://github.com/Haflier/Cryptock)
-
-**A modular .NET trading assistant.**
-
-A Clean Architecture project for market data, technical indicators, and trading-related analysis, with a Telegram-facing workflow.
-
-**Focus**
-- Domain, Application, Infrastructure, and Presentation separation
-- Market-data provider integrations
-- Indicator calculations and chart reporting
-- Automated tests
-
-`C#` `.NET 8` `Chart Generation` `Telegram`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [HotelManagementSystem](https://github.com/Haflier/HotelManagementSystem)
-
-**A backend API for hotel and reservation workflows.**
-
-An ASP.NET Core Web API project with authentication, authorization, persistence, and containerized development.
-
-**Focus**
-- REST API design and DTO mapping
-- Entity Framework Core and PostgreSQL
-- JWT authentication and role-based authorization
-- Docker-based local environment
-
-`ASP.NET Core` `EF Core` `PostgreSQL` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### [Inventory Control System](https://github.com/Haflier/inventory-control-system)
-
-**A simulation-driven approach to inventory policy and cost analysis.**
-
-A discrete-event inventory simulation built in Arena/Rockwell, using an (s, S) policy under stochastic demand and replenishment assumptions.
-
-**What it analyzes**
-
-- Inventory levels, sales, lost sales, and partial sales
-- Holding, ordering, and total costs
-- Budget behavior over a 92-day simulation
-- Policy tuning with Process Analyzer
-
-`Arena` `Discrete-event simulation` `Inventory optimization`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Haflier/Optinull">
+    <img src="https://raw.githubusercontent.com/Haflier/Optinull/main/docs/optinull-logo.png" height="100" alt="Optinull" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Haflier/Cryptock">
+    <img src="https://raw.githubusercontent.com/Haflier/Cryptock/main/docs/images/logo/cryptock-logo.png" height="100" alt="Cryptock" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+</p>
 
 <p align="center">
   <img width="84%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0747AF,33:C0C08A,66:E70F0F,100:1D5419&height=4&section=header&animation=twinkling" alt="Animated Pathos color divider" />
 </p>
 
-## `03` — Technical interests
-
-<table>
-<tr><th>Area</th><th>What I explore</th></tr>
-<tr><td><b>Backend engineering</b></td><td>ASP.NET Core, REST APIs, dependency injection, persistence, authentication, and maintainable architecture.</td></tr>
-<tr><td><b>Optimization</b></td><td>Neighborhoods, objective functions, local search, metaheuristics, scheduling, and benchmark design.</td></tr>
-<tr><td><b>Software design</b></td><td>Abstractions, explicit boundaries, testability, reproducibility, and clear responsibility.</td></tr>
-<tr><td><b>Mathematics & theory</b></td><td>Logic, linear algebra, analysis, lambda calculus, and the foundations of computation.</td></tr>
-</table>
-
-I am especially interested in the point where mathematical models become executable systems: representing a problem precisely, selecting an appropriate algorithm, and validating the outcome with evidence rather than intuition.
-
-<p align="center">
-  <img width="84%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0747AF,33:C0C08A,66:E70F0F,100:1D5419&height=4&section=header&animation=twinkling" alt="Animated Pathos color divider" />
-</p>
-
-## `04` — GitHub activity
+## `03` — GitHub activity
 
 <div align="center">
 
