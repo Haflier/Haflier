@@ -4,7 +4,9 @@
 
 <br/>
 
-### Structure over spectacle. Understanding over imitation.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=fd4200&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=85&lines=Structure+over+spectacle.;Understanding+over+imitation." alt="Structure over spectacle. Understanding over imitation." />
+</div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Haflier-C0C08A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Haflier)
 [![C%23](https://img.shields.io/badge/C%23-0747AF?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
@@ -65,7 +67,5 @@ I am a computer science graduate interested in the ideas beneath the implementat
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0747AF,50:0B0D12,100:C0C08A&height=100&section=footer" />
-
-<sub><i>Clarity is not the absence of complexity. It is complexity made understandable.</i></sub>
 
 </div>
