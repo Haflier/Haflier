@@ -19,26 +19,22 @@
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=101010)](https://swagger.io/)
 [![Neovim](https://img.shields.io/badge/Neovim-1D5419?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 
-<br/>
-
-
-
 </div>
 
 <p align="center">
   <img width="84%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0747AF,33:C0C08A,66:E70F0F,100:1D5419&height=4&section=header&animation=twinkling" alt="Animated Pathos color divider" />
 </p>
 
-## `01` — About
+## `About` =>
 
-I am a computer science graduate interested in the ideas beneath the implementation: abstraction, mathematical structure, algorithms, and the design of software that can be reasoned about. My current work is centered on **C# / .NET**, backend engineering, and optimization algorithms. I am especially interested in the point where mathematical models become executable systems: representing a problem precisely, selecting an appropriate algorithm, and validating the outcome with evidence rather than intuition.
+I am a computer science graduate interested in the ideas beneath the implementation: abstraction, mathematical structure, algorithms, and the design of software that can be reasoned about. My current work is centered on **C# / .NET**, backend engineering, and optimization algorithms. I am especially interested in the point where mathematical models become executable systems: representing a problem precisely, selecting an appropriate algorithm, and validating the outcome.
 
 
 <p align="center">
   <img width="84%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0747AF,33:C0C08A,66:E70F0F,100:1D5419&height=4&section=header&animation=twinkling" alt="Animated Pathos color divider" />
 </p>
 
-## `02` — Selected work
+## `Selected work` =>
 
 <p align="center">
   <a href="https://github.com/Haflier/Optinull">
@@ -55,7 +51,7 @@ I am a computer science graduate interested in the ideas beneath the implementat
   <img width="84%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0747AF,33:C0C08A,66:E70F0F,100:1D5419&height=4&section=header&animation=twinkling" alt="Animated Pathos color divider" />
 </p>
 
-## `03` — GitHub activity
+## `GitHub activity` =>
 
 <div align="center">
 
