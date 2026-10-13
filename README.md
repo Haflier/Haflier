@@ -51,8 +51,6 @@ I am interested in the ideas beneath the implementation: abstraction, mathematic
   <img width="84%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0747AF,33:C0C08A,66:E70F0F,100:1D5419&height=4&section=header&animation=twinkling" alt="Animated Pathos color divider" />
 </p>
 
-### GitHub activity
-
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haflier&layout=compact&hide_border=true&bg_color=0B0D12&title_color=C0C08A&text_color=D7D7CB" alt="Most used languages" />
