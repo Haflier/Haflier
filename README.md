@@ -2,22 +2,21 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0747AF,50:0B0D12,100:C0C08A&height=190&section=header&text=Hamed%20Gharaee&fontSize=54&fontColor=C0C08A&animation=fadeIn&fontAlignY=36&desc=Backend%20Development%20%7C%20Optimization&descSize=15&descAlignY=60" />
 
-<br/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=fd4200&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=85&lines=Structure+over+spectacle.;Understanding+over+imitation." alt="Structure over spectacle. Understanding over imitation." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=85&lines=Jack+of+all+trades,+master+of+none%E2%96%88" alt="Jack of all trades, master of none." />
 </div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Haflier-C0C08A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Haflier)
 [![C%23](https://img.shields.io/badge/C%23-0747AF?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/ef/core/)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/tr-tr/sql-server)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-Haflier-C0C08A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Haflier)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/tr-tr/sql-server)
 ![Git](https://img.shields.io/badge/Git-E70F0F?style=for-the-badge&logo=git&logoColor=white)
 [![Linux](https://img.shields.io/badge/Linux-fd4200?style=for-the-badge&logo=linux&logoColor=white)](https://kernel.org/)
 [![Python](https://img.shields.io/badge/Python-f5d90a?style=for-the-badge&logo=python&logoColor=f5d90a&labelColor=3571a3)](https://www.python.org/)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=101010)](https://swagger.io/)
 [![Neovim](https://img.shields.io/badge/Neovim-1D5419?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 
 <br/>
