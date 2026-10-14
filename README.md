@@ -38,7 +38,7 @@ I am interested in the ideas beneath the implementation: abstraction, mathematic
 
 <p align="center">
   <a href="https://github.com/Haflier/Optinull">
-    <img src="https://raw.githubusercontent.com/Haflier/Optinull/main/docs/optinull-logo.png" height="100" alt="Optinull" />
+    <img src="https://raw.githubusercontent.com/Haflier/Optinull/main/docs/images/optinull-logo.png" height="100" alt="Optinull" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Haflier/Cryptock">
